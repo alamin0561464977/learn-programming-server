@@ -2,31 +2,43 @@
     {
         "id": "01",
         "name": "Learn JavaScript",
+        "price": 445,
+        "d": "JavaScript is the world's most popular programming language. JavaScript is the programming language of the Web. JavaScript is easy to learn. This tutorial will teach you JavaScript from basic to advanced.",
         "image": "https://miro.medium.com/max/1400/1*5eV1xmJs2-sJ4DdejfdnQA.png"
     },
     {
         "id": "02",
         "name": "Learn CSS",
+        "price": 129,
+        "d": "CSS is the language we use to style an HTML document. CSS describes how HTML elements should be displayed. This tutorial will teach you CSS from basic to advanced.",
         "image": "https://play-lh.googleusercontent.com/RTAZb9E639F4JBcuBRTPEk9_92I-kaKgBMw4LFxTGhdCQeqWukXh74rTngbQpBVGxqo"
     },
     {
         "id": "03",
+        "price": 139,
+        "d": "React is a JavaScript library for building user interfaces. React is used to build single-page applications. React allows us to create reusable UI components.",
         "name": "Learn React",
         "image": "https://www.valuecoders.com/blog/wp-content/uploads/2016/08/react.png"
     },
     {
         "id": "04",
         "name": "Learn Node.Js",
+        "d": "Node.js is an open source server environment. Node.js allows you to run JavaScript on the server.",
+        "price": 349,
         "image": "https://developers.redhat.com/sites/default/files/styles/article_feature/public/nodejs-reference-architecture_2x.png?itok=IADzXWmx"
     },
     {
         "id": "05",
         "name": "Learn Python",
+        "price": 235,
+        "d": "Python is a popular programming language. Python can be used on a server to create web applications.",
         "image": "https://img.wallpapersafari.com/desktop/1920/1080/24/2/oKPpvt.jpg"
     },
     {
         "id": "06",
         "name": "Learn C++",
+        "price": 449,
+        "d": "This tutorial will teach you the basics of C++. It is not necessary to have any prior programming experience.",
         "image": "https://www.researchgate.net/publication/338914867/figure/fig3/AS:953897908719616@1604438392052/The-model-is-written-in-C-and-runs-in-R.ppm"
     }
 ]
