@@ -23,4 +23,4 @@ app.get('/course-detail/::id', (req, res) => {
 
 app.listen(prot, () => {
     console.log('we will learn Programming', prot)
-})
+});
