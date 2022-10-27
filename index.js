@@ -19,8 +19,8 @@ app.get('/course-detail/::id', (req, res) => {
     const id = req.params.id;
     const courseDetails = courses.find(course => course.id == id);
     res.send(courseDetails);
-})
+});
 
 app.listen(prot, () => {
     console.log('we will learn Programming', prot)
-});
+})
